@@ -1,4 +1,7 @@
 # -Justin-.github.io-fifo_sync
+
+  --
+
 ## Synchronous FIFO (Single-Clock FIFO) --- RTL Explanation  
 ### Overview  
 This module implements a parameterized synchronous FIFO (First-In-First-Out) buffer using a single clock domain.  
