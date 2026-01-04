@@ -1,6 +1,6 @@
 # -Justin-.github.io-fifo_sync
 
-  ---------
+  ---
 
 ## Synchronous FIFO (Single-Clock FIFO) --- RTL Explanation  
 ### Overview  
